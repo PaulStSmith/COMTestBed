@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>COMTestBedCS</RootNamespace>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <EnableComHosting>true</EnableComHosting>
+    <RegisterForComInterop>True</RegisterForComInterop>
+    <Platforms>x86</Platforms>
+    <RegisterAssemblyMSBuildArchitecture>x86</RegisterAssemblyMSBuildArchitecture>
+  </PropertyGroup>
+
+</Project>
